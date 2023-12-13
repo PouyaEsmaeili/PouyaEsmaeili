@@ -14,6 +14,7 @@ I'm Pouya Esmaeili. Enthusiastic about systems and robots, I currently thrive as
 - [Cryptographic client side state](https://github.com/PouyaEsmaeili/CryptographicClientSideUserState)
 - [Leaky Bucket rate limiter with Redis](https://github.com/PouyaEsmaeili/RateLimiter)
 - [gFuzz: A grpc fuzzer](https://github.com/PouyaEsmaeili/gFuzz)
+- [Duman Newsletter: My newsletter about AI in Farsi](https://duman.pouyae.ir/)
 
  ---
  
