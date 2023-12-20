@@ -10,6 +10,7 @@ I'm Pouya Esmaeili. Enthusiastic about systems and robots, I currently thrive as
 ---
 
 ### Projects: 
+- [AsyncURLCrawler](https://github.com/PouyaEsmaeili/AsyncURLCrawler)
 - [Snowflake ID generator in Go](https://github.com/PouyaEsmaeili/SnowflakeID)
 - [Cryptographic client side state](https://github.com/PouyaEsmaeili/CryptographicClientSideUserState)
 - [Leaky Bucket rate limiter with Redis](https://github.com/PouyaEsmaeili/RateLimiter)
