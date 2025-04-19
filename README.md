@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-I'm Pouya Esmaeili. Enthusiastic about systems and robots, I currently thrive as a software engineer. Join me in exploring the exciting world of technology and innovation!
+I'm Pouya Esmaeili. Enthusiastic about systems, AI and robots, I currently thrive as a software engineer. Join me in exploring the exciting world of technology and innovation!
 
  - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) 👉 **pouya.esmaeili.g@gmail.com**
  - ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) 👉 [Click Here](https://medium.com/@pouya.esmaeili.g)
  - ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) 👉 [Click Here](https://www.linkedin.com/in/pouya-esmaeili-9124b839/)
 - ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) 👉 [Click Here](https://stackoverflow.com/users/13118327/pouya-esmaeili?tab=profile)
+- ![HuggingFace](https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/42378b786aa85e6103abbd2ee24e56672467d562ecf884eb51cefe3a68971087?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo-with-title.png%3B+filename%3D%22hf-logo-with-title.png%22%3B&response-content-type=image%2Fpng&Expires=1745108117&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTEwODExN319LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzQyMzc4Yjc4NmFhODVlNjEwM2FiYmQyZWUyNGU1NjY3MjQ2N2Q1NjJlY2Y4ODRlYjUxY2VmZTNhNjg5NzEwODc%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=bp-bJi3FPc8py-TZdiB2%7EJwYUxOp3n9m6endsmPDINLeT7LEo7Rh4uo3-wyKtg1afAwE2yqMngHyxWK-H-LpKCk4HKwX51CJMmEc4UCmwVh7Uu5S0vv8AJY8vxJsf4hXwY0vcdfNwVH%7EeSWrvBOjXKzsdQgCDqUeW5xlcRot4BSJeE90qV-fmAHWJL1wIKrHegPVYo-57bvUQmZ6AZ51s3rvb6I264K9NshqGyZUtqbk3Kt2E2D%7EoIUeH9ewU2gDcd%7ETKHthJmNGDgtD9fBN-weYOovl%7EkNifDZwicyRzv0EpjVsytmrsE4ZLRr3YILwW67z8lRUI3ZjSWRAlGbciw__&Key-Pair-Id=K3RPWS32NSSJCE) 👉 [Click Here](https://huggingface.co/Pouyae)
 
 ---
 
