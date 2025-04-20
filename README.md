@@ -8,7 +8,7 @@ I'm Pouya Esmaeili. Enthusiastic about systems, AI and robots, I currently thriv
 <a href="https://medium.com/@pouya.esmaeili.g" target="_blank">
   <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="120" height="40"/>
 </a>
-<a href="https://www.linkedin.com/in/pouya-esmaeili-9124b839/" target="_blank">
+<a href="https://www.linkedin.com/in/pouya-e-9124b839/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="40"/>
 </a>
 <a href="https://stackoverflow.com/users/13118327/pouya-esmaeili?tab=profile" target="_blank">
