@@ -29,6 +29,7 @@ I'm Pouya Esmaeili. Enthusiastic about systems, AI and robots, I currently thriv
 - [A Cryptographic Client Side State](https://medium.com/@pouya.esmaeili.g/a-cryptographic-client-side-user-state-dd6085100c73?source=friends_link&sk=eeec49909cfd51c8062262358b7a923d)
 - [Rate Limiter with Redis](https://medium.com/@pouya.esmaeili.g/rate-limiter-with-redis-ac6913932bf5?source=friends_link&sk=bb59d7a999b6ae21e1d84fa22dc85a93)
 - [Model Context Protocol (MCP)](https://github.com/PouyaEsmaeili/mcp?tab=readme-ov-file)
+- [LM Studio REST API (beta) + Postman collection](https://github.com/PouyaEsmaeili/lm-studio)
 
 ---
 
