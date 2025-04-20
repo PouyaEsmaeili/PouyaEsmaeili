@@ -2,12 +2,21 @@
 
 I'm Pouya Esmaeili. Enthusiastic about systems, AI and robots, I currently thrive as a software engineer. Join me in exploring the exciting world of technology and innovation!
 
-- <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="40" style="object-fit: contain;"/> 👉 **pouya.esmaeili.g@gmail.com**
-- <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="120" height="40" style="object-fit: contain;"/> 👉 [Click Here](https://medium.com/@pouya.esmaeili.g)
-- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="40" style="object-fit: contain;"/> 👉 [Click Here](https://www.linkedin.com/in/pouya-esmaeili-9124b839/)
-- <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="120" height="40" style="object-fit: contain;"/> 👉 [Click Here](https://stackoverflow.com/users/13118327/pouya-esmaeili?tab=profile)
-- <img src="https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/533d195d96af7a2f996b2170c941e05698e8b270d29366f5e1f109d4ddf0bd55?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo-pirate.svg%3B+filename%3D%22hf-logo-pirate.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1745108284&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTEwODI4NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzUzM2QxOTVkOTZhZjdhMmY5OTZiMjE3MGM5NDFlMDU2OThlOGIyNzBkMjkzNjZmNWUxZjEwOWQ0ZGRmMGJkNTU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=KWUFXe%7EgR6y1BHnAPGkaQxOKYjPM94%7E4Rz0fGX0dyzplaNAxedmUekh%7EM8bXJy%7E3awNI%7EKT3i8tI8Ss5k7jXp-zsOlVVxTo5WE-OX1zJGoIYmWTdXjBQwWEWNgcgYuD4tUkK2lLyN2q8dLGDbwltddFvMO0HX8MwqW5468p%7Eugfa%7ESFnby7UezD8IrCl0uEvYQ565xyy2tIatdGQpHPCNWqyAz4qvAnjH31d7M4EtlA-m1ZJH-DPuxL7hGJkKKITftTiqWhRjRq2YfoRidpt9DJVfgJ%7EX1VCghviMpbTrfGT9OlTA7WnJDWa1U8g-W48ennqmKe1bbMtDswnOgEW3Q__&Key-Pair-Id=K3RPWS32NSSJCE" width="120" height="40" style="object-fit: contain;"/> 👉 [Click Here](https://huggingface.co/Pouyae)
-
+<a href="mailto:pouya.esmaeili.g@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="120" height="40"/>
+</a>
+<a href="https://medium.com/@pouya.esmaeili.g" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" width="120" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/pouya-esmaeili-9124b839/" target="_blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="40"/>
+</a>
+<a href="https://stackoverflow.com/users/13118327/pouya-esmaeili?tab=profile" target="_blank">
+  <img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" width="120" height="40"/>
+</a>
+<a href="https://huggingface.co/Pouyae" target="_blank">
+  <img src="https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/533d195d96af7a2f996b2170c941e05698e8b270d29366f5e1f109d4ddf0bd55?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo-pirate.svg%3B+filename%3D%22hf-logo-pirate.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1745108284&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NTEwODI4NH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzLzUzM2QxOTVkOTZhZjdhMmY5OTZiMjE3MGM5NDFlMDU2OThlOGIyNzBkMjkzNjZmNWUxZjEwOWQ0ZGRmMGJkNTU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=KWUFXe%7EgR6y1BHnAPGkaQxOKYjPM94%7E4Rz0fGX0dyzplaNAxedmUekh%7EM8bXJy%7E3awNI%7EKT3i8tI8Ss5k7jXp-zsOlVVxTo5WE-OX1zJGoIYmWTdXjBQwWEWNgcgYuD4tUkK2lLyN2q8dLGDbwltddFvMO0HX8MwqW5468p%7Eugfa%7ESFnby7UezD8IrCl0uEvYQ565xyy2tIatdGQpHPCNWqyAz4qvAnjH31d7M4EtlA-m1ZJH-DPuxL7hGJkKKITftTiqWhRjRq2YfoRidpt9DJVfgJ%7EX1VCghviMpbTrfGT9OlTA7WnJDWa1U8g-W48ennqmKe1bbMtDswnOgEW3Q__&Key-Pair-Id=K3RPWS32NSSJCE" width="120" height="40"/>
+</a>
 
 ---
 
