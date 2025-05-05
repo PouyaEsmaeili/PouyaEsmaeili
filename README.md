@@ -1,16 +1,6 @@
-### Hey there! 👋 I'm Pouya
+### Hi there 👋
 
-Welcome to my GitHub! I'm a software engineer with a passion for systems, AI, and robotics.  
-I love building tools, experimenting with new technologies, and sharing what I learn along the way.
-
-🔭 **Current Focus**  
-Exploring the intersection of artificial intelligence, low-level systems, and automation.
-
-💡 **What I Enjoy**  
-- Designing robust backend systems  
-- Tinkering with AI models  
-- Writing clean, maintainable code  
-- Working on open-source when I can  
+I'm Pouya Esmaeili. Enthusiastic about systems, AI and robots, I currently thrive as a software engineer. Join me in exploring the exciting world of technology and innovation!
 
 📬 **Connect with me**  
 - 📧 [Email](mailto:pouya.esmaeili.g@gmail.com)  
