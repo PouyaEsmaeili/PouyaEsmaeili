@@ -5,7 +5,7 @@ I'm Pouya Esmaeili. Enthusiastic about systems, AI and robots, I currently thriv
 📬 **Connect with me**  
 - 📧 [Email](mailto:pouya.esmaeili.g@gmail.com)  
 - 📝 [Medium](https://medium.com/@pouya.esmaeili.g)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/pouya-e-9124b839/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/pouya-esmaeili/)  
 - 💬 [Stack Overflow](https://stackoverflow.com/users/13118327/pouya-esmaeili?tab=profile)  
 - 🤗 [Hugging Face](https://huggingface.co/Pouyae)
 
