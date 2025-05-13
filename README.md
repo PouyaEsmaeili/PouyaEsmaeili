@@ -24,14 +24,14 @@ Let’s build something great together 🚀
 ---
 
 ## Blog posts:
+- [Middleware Cache Design for Efficient LLM Use](https://medium.com/@pouya.esmaeili.g/middleware-cache-design-for-efficient-llm-use-64bab6b1fa00?source=friends_link&sk=6505c8c49f63f6070d13f30545492d75)
+- [Model Context Protocol (MCP)](https://github.com/PouyaEsmaeili/mcp?tab=readme-ov-file)
 - [Scan a website for malicious URLs with AsyncURLCrawler and VirusTotal](https://medium.com/@pouya.esmaeili.g/viruscan-a-website-for-malicious-url-with-asyncurlcrawler-and-virus-total-2adaef0201c3)
 - [Security Vulnerability Scanning in CI/CD Pipelines](https://medium.com/@pouya.esmaeili.g/security-vulnerability-scanning-in-ci-cd-pipelines-75e566caee95)
 - [Design Considerations to Develop a Robust System Against DDoS Attacks](https://medium.com/@pouya.esmaeili.g/design-considerations-to-develop-a-robust-system-against-ddos-attacks-b62bf75a796f?source=friends_link&sk=7554fe1487c0288f8f7a5638874a96ef)
 - [Git: Less commonly used but handy commands](https://medium.com/@pouya.esmaeili.g/git-less-commonly-used-but-handy-commands-d189e0619f47?source=friends_link&sk=797a152a02f805c830f20eaf64a41e8f)
 - [A Cryptographic Client Side State](https://medium.com/@pouya.esmaeili.g/a-cryptographic-client-side-user-state-dd6085100c73?source=friends_link&sk=eeec49909cfd51c8062262358b7a923d)
 - [Rate Limiter with Redis](https://medium.com/@pouya.esmaeili.g/rate-limiter-with-redis-ac6913932bf5?source=friends_link&sk=bb59d7a999b6ae21e1d84fa22dc85a93)
-- [Model Context Protocol (MCP)](https://github.com/PouyaEsmaeili/mcp?tab=readme-ov-file)
-- [LM Studio REST API (beta) + Postman collection](https://github.com/PouyaEsmaeili/lm-studio)
 
 ---
 
